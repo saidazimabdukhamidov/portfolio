@@ -32,6 +32,11 @@ h1{
     font-weight: 400;
     color: #17191A;
 }
+h2{
+    font-size: 30px;
+    font-weight: 400;
+    color: #027BFF;
+}
 p{
     color: #8F9EA5;
     opacity: 0.8;
