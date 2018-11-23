@@ -17,6 +17,7 @@ html{
     font-weight: 100;
 }
 body{
+    font-family: Montserrat, apple;
     width: 60%;
     margin: auto;
     background-image: url(images/BG.png);
@@ -28,21 +29,25 @@ body{
     color: #027BFF;
 }
 h1{
+    font-family: Montserrat, apple;
     font-size: 35px;
     font-weight: 400;
     color: #17191A;
 }
 h2{
+    font-family: Montserrat, apple;
     font-size: 30px;
     font-weight: 400;
     color: #027BFF;
 }
 h3{
+    font-family: Montserrat, apple;
     font-size: 35px;
     font-weight: 400;
     color: #17191A;
 }
 p{
+    font-family: Montserrat, apple;
     color: #8F9EA5;
     opacity: 0.8;
     font-weight: 100;
@@ -79,10 +84,12 @@ p{
 
 
 .landing{
+    font-family: Montserrat, apple;
     height: 100vh;
     position: relative;
 }
 .landingWrapper{
+    font-family: Montserrat, apple;
     display: flex;
     justify-content: space-between;
     margin-top: 40px;
